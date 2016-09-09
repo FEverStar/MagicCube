@@ -1,0 +1,2 @@
+# MagicCube
+魔方
